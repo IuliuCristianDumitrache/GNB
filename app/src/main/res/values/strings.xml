@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gmb</string>
+    <string name="select_product_to_see_details">Select product to see details</string>
+    <string name="details_for_product">Details for %s</string>
+    <string name="lbl_ok">OK</string>
+    <string name="euro_label">EUR</string>
+    <string name="total_amount">Total amount</string>
+</resources>
